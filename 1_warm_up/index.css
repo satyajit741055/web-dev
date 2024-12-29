@@ -1,0 +1,77 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    /* border: 10px solid black; */
+}
+.logo {
+    /* padding-left: 170px; */
+}
+
+.menu
+{
+    display: flex;
+    justify-content: space-between;
+    /* padding-right: 190px; */
+    gap: 20px;
+}
+
+
+.bot 
+{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+body
+{
+    padding-left: 170px;
+    padding-right: 190px;
+}
+
+#img1
+{
+    width: 73vi;
+}
+
+.img1
+{
+    /* border: 5px solid red; */
+}
+
+.textfirst
+{
+    font-size: 1.75rem;
+    text-align: center;
+    font-family: "Inter",serif;
+}
+
+.textcenter
+{
+    font-size: 1.75rem;
+    text-align: center;
+}
+
+.button
+{
+    margin-top:15px;
+    background-color: #387ed1;
+    color:#fff;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+    cursor:pointer;
+    box-sizing: border-box;
+    padding: 10px 30px;
+
+}
+
+.textcenter p 
+{
+    padding:27px
+}
+
+.textcenter p a{
+    text-decoration: none;
+}
